@@ -11,5 +11,7 @@ Then we will make the hash function for the password text to find the duplicates
 ## What you will find in our repository:
 1) `Homework_4_part1.ipynb`: a tidy Notebook where we put the code and the comments of our pipeline of the first part.
 2) `Homework_4_part2.ipynb`: a tidy Notebook where we put the code and the comments of our pipeline of the second part.
-3) `mask.png`: the image to make the word cloud
-4) `immobiliareimg.jpg`: the image in the readme.txt
+3) `matrix2.zip`: the second matrix to don't run every time the code to get it.
+4) `dataset.csv`: the dataset we obtained from the web scraping.
+5) `mask.png`: the image to make the word cloud.
+6) `immobiliareimg.jpg`: the image in the readme.txt
