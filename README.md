@@ -1,7 +1,7 @@
 # Group32-HW4
 ## Homework 4 - Does basic house information reflect house's description? - Find the duplicates!
 
-##Davide Toma, Giacomo Lo Cascio, Musie Meressa
+## Davide Toma, Giacomo Lo Cascio, Musie Meressa
 ![alt text](https://github.com/DavideToma/ADM_HW4_Group-32/blob/master/immobiliareimg.jpg)
 
 ## Assignment
