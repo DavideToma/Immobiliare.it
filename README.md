@@ -16,3 +16,7 @@ Then we will make the hash function for the password text to find the duplicates
 4) `dataset.csv`: the dataset we obtained from the web scraping.
 5) `mask.png`: the image to make the word cloud.
 6) `immobiliareimg.jpg`: the image in the readme.txt
+
+## Notes:
+
+We implement the k-means class to get the bonus in the Homework_4_part1.ipynb .
