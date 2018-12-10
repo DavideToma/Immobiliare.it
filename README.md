@@ -6,6 +6,7 @@
 
 ## Assignment
 In this assignment we will perform a clustering analysis of house announcements in Rome from Immobiliare.it.
+
 Then we will make the hash function for the password text to find the duplicates.
 
 ## What you will find in our repository:
